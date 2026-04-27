@@ -290,231 +290,263 @@ If you use this survey or taxonomy, please cite the manuscript once the official
 @article{elshawi2026beyond,
   title   = {Beyond the Static Horizon: A Survey of Automated Machine Learning},
   author  = {El Shawi, Radwa and Maher, Mohamed and Beheshti, Amin},
-  journal = {ACM Computing Surveys},
+  journal = {},
   year    = {2026},
-  note    = {Manuscript under preparation}
+  note    = {Manuscript under review}
 }
 ```
 
-## 📖 Complete reference index used in this README/manuscript
+## 📖 Complete reference index used in this README
 
 The following index is generated from the manuscript BibTeX file and includes the unique citation keys detected in the LaTeX source.
 
-| Citation key | Reference |
-|---|---|
-| `automl2019` | [Automated Machine Learning: Methods, Systems, Challenges](https://doi.org/10.1007/978-3-030-05318-5) (2019) — Unknown authors, *Springer*. |
-| `yao2018taking` | Taking human out of learning applications: A survey on automated machine learning (2018) — Yao, Quanming et al., *arXiv preprint arXiv:1810.13306*. |
-| `elshawi2019automated` | Automated machine learning: State-of-the-art and open challenges (2019) — Elshawi, Radwa; Maher, Mohamed; Sakr, Sherif, *arXiv preprint arXiv:1906.02287*. |
-| `zoller2021benchmark` | Benchmark and survey of automated machine learning frameworks (2021) — Z"oller, Marc-Andr'e; Huber, Marco F, *Journal of Artificial Intelligence Research*. |
-| `zoph2017nas` | Neural Architecture Search with Reinforcement Learning (2017) — Barret Zoph; Quoc Le, *International Conference on Learning Representations*. |
-| `liu2019darts` | DARTS: Differentiable Architecture Search (2019) — Liu, Hanxiao; Simonyan, Karen; Yang, Yiming, *International Conference on Learning Representations*. |
-| `he2021automl` | AutoML: A survey of the state-of-the-art (2021) — He, Xin; Zhao, Kai; Chu, Xiaowen, *Knowledge-Based Systems*. |
-| `baratchi2024automated` | Automated machine learning: past, present and future (2024) — Baratchi, Mitra et al., *Artificial intelligence review*. |
-| `maher2025fedforecaster` | [FedForecaster: An Automated Federated Learning Approach for Time-series Forecasting](https://doi.org/10.48786/EDBT.2025.70) (2025) — Mahmoud Saeed Mesmeh, Mohamed Maher, Osama Fayez Oun, Radwa ElShawi, *Proceedings of the International Conference on Extending Database Technology (EDBT)*. |
-| `sayed2024gizaml` | GizaML: A Collaborative Meta-learning Based Framework Using LLM For Automated Time-Series Forecasting. (2024) — Sayed, Esraa et al., *EDBT*. |
-| `el2023onlineautoclust` | Onlineautoclust: A framework for online automated clustering (2023) — El Shawi, Radwa; Rozgonjuk, Dmitri, *Proceedings of the 32nd ACM International Conference on Information and Knowledge Management*. |
-| `karmaker2021automl` | Automl to date and beyond: Challenges and opportunities (2021) — Karmaker, Shubhra Kanti et al., *Acm computing surveys (csur)*. |
-| `barbudo2023eight` | Eight years of AutoML: categorisation, review and trends (2023) — Barbudo, Rafael; Ventura, Sebasti'an; Romero, Jos'e Ra'ul, *Knowledge and Information Systems*. |
-| `delvalle2023multitarget` | [A systematic literature review on AutoML for multi-target learning tasks](https://doi.org/10.1007/s10462-023-10569-2) (2023) — Del Valle, Aline Marques; Mantovani, Rafael Gomes; Cerri, Ricardo, *Artificial Intelligence Review*. |
-| `salehin2024automl` | AutoML: A systematic review on automated machine learning with neural architecture search (2024) — Salehin, Imrus et al., *Journal of Information and Intelligence*. |
-| `alsharef2022review` | Review of ML and AutoML solutions to forecast time-series data (2022) — Alsharef, Ahmad et al., *Archives of Computational Methods in Engineering*. |
-| `poulakis2024survey` | A survey on automl methods and systems for clustering (2024) — Poulakis, Yannis; Doulkeridis, Christos; Kyriazis, Dimosthenis, *ACM Transactions on Knowledge Discovery from Data*. |
-| `rajenthiram2025tertiary` | [AutoML: A Tertiary Study of Phases, Methods, Tools, and Frameworks](https://doi.org/10.1007/978-3-032-04403-7_26) (2025) — Keerthiga Rajenthiram; Pauline Delporte; Patricia Lago, *Proceedings of the European Conference on Software Architecture (ECSA)*. |
-| `budgen2006performing` | Performing systematic literature reviews in software engineering (2006) — Budgen, David; Brereton, Pearl, *Proceedings of the 28th international conference on Software engineering*. |
-| `kotthoff2019automl` | Auto-WEKA 2.0: Automatic model selection and hyperparameter optimization in WEKA (2017) — Kotthoff, Lars et al., *Journal of Machine Learning Research*. |
-| `hutter2023tabpfn` | TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Single Forward Pass (2023) — Frank Hutter et al., *arXiv preprint arXiv:2207.01848*. |
-| `komala2024fairautoml` | Fair-AutoML: Bias-Aware Automation in Machine Learning (2024) — Komala, Priya et al., *AI Ethics Journal*. |
-| `singh2025review` | A Review on Interplay of AutoML and MLOps “AutoMLOps”: Current State, Challenges, and Future Scope (2025) — Singh, Kuldeep; Goswami, Anurag; Kukreja, Sonal, *International Conference on Computing and Communication Networks*. |
-| `zhou2021flora` | Flora: Single-shot hyper-parameter optimization for federated learning (2021) — Zhou, Yi et al., *arXiv preprint arXiv:2112.08524*. |
-| `shchur2023autogluon` | AutoGluon--TimeSeries: AutoML for probabilistic time series forecasting (2023) — Shchur, Oleksandr et al., *International Conference on Automated Machine Learning*. |
-| `fallah2020personalized` | Personalized federated learning: A meta-learning approach (2020) — Fallah, Alireza; Mokhtari, Aryan; Ozdaglar, Asuman, *arXiv preprint arXiv:2002.07948*. |
-| `Garg2020` | Direct Federated Neural Architecture Search (2020) — Anubhav Garg; Amit Kumar Saha; Debo Dutta, *Proceedings of NeurIPS*. |
-| `hendrycks17baseline` | A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks (2017) — Dan Hendrycks; Kevin Gimpel, *Proceedings of International Conference on Learning Representations*. |
-| `winter2022adaptation` | Adaptation strategies for automated machine learning on evolving data (2021) — Celik, Bilge; Vanschoren, Joaquin, *IEEE transactions on pattern analysis and machine intelligence*. |
-| `snoek2012practical` | Practical bayesian optimization of machine learning algorithms (2012) — Snoek, Jasper; Larochelle, Hugo; Adams, Ryan P, *Advances in neural information processing systems*. |
-| `li2018hyperband` | Hyperband: A novel bandit-based approach to hyperparameter optimization (2018) — Li, Lisha et al., *Journal of Machine Learning Research*. |
-| `falkner2018bohb` | BOHB: Robust and efficient hyperparameter optimization at scale (2018) — Falkner, Stefan; Klein, Aaron; Hutter, Frank, *International conference on machine learning*. |
-| `anthes2025adela` | ADELA: Surrogate-assisted evolutionary pipeline optimization (2025) — Anthes, Philipp; Sobania, Dominik; Rothlauf, Franz, *arXiv preprint arXiv:2501.18479*. |
-| `elsken2019meta` | Meta-learning: A survey (2019) — Elsken, Thomas; Hutter, Frank; Bergstra, James, *arXiv preprint arXiv:1904.03493*. |
-| `liu2018darts` | **Missing from parsed BibTeX or requires manual normalization.** |
-| `pham2018efficient` | **Missing from parsed BibTeX or requires manual normalization.** |
-| `automlgpt2023` | AutoML-GPT: Instruction-Tuned Large Language Models for Automated Machine Learning (2023) — Zou, Yufeng et al., *arXiv preprint arXiv:2305.03403*. |
-| `mugunthan2019smpai` | Smpai: Secure multi-party computation for federated learning (2019) — Mugunthan, Vaikkunth et al., *Proceedings of the NeurIPS 2019 Workshop on Robust AI in Financial Services*. |
-| `schwartz2019green` | [Green AI](https://doi.org/10.1145/3351449) (2019) — Roy Schwartz et al., *Communications of the ACM*. |
-| `tornede2023green` | [Towards Green AutoML: Optimizing for Energy Efficiency and Carbon Footprint](https://arxiv.org/abs/2306.00000) (2023) — Alexander Tornede; Frank Hutter, *Proceedings of the AutoML Conference*. |
-| `crisan2024provenance` | [Human-Centered Approaches for Provenance in Automated Data Science (Dagstuhl Seminar 23372)](https://doi.org/10.4230/DagRep.13.9.116) (2024) — Anamaria Crisan et al., *Dagstuhl Reports*. |
-| `lindauer2024human` | [Position: A Call to Action for a Human-Centered AutoML Paradigm](https://arxiv.org/pdf/2406.03348) (2024) — Lindauer, Marius et al., *Proceedings of the 41st International Conference on Machine Learning*. |
-| `pham2018enas` | Efficient neural architecture search via parameters sharing (2018) — Pham, Hieu et al., *International conference on machine learning*. |
-| `feurer2015autosklearn` | Auto-sklearn 2.0: Hands-free automl via meta-learning (2022) — Feurer, Matthias et al., *Journal of Machine Learning Research*. |
-| `kirsch2023meta` | Meta-Learning General-Purpose Learning Algorithms with Transformers (2023) — Louis Kirsch et al., *International Conference on Learning Representations (ICLR)*. |
-| `milvus2025metrics` | What metrics are commonly used to evaluate AutoML performance? (2025) — Milvus Blog, *Accessed: 2025-11-05*. |
-| `barto2021reinforcement` | Reinforcement learning: An introduction. by richard’s sutton (2021) — Barto, Andrew G, *SIAM Rev*. |
-| `parker2022automated` | Automated reinforcement learning (autorl): A survey and open problems (2022) — Parker-Holder, Jack et al., *Journal of Artificial Intelligence Research*. |
-| `benjamins2022contextualize` | Contextualize Me--The Case for Context in Reinforcement Learning (2022) — Benjamins, Carolin et al., *arXiv preprint arXiv:2202.04500*. |
-| `katz2016explorekit` | Explorekit: Automatic feature generation and selection (2016) — Katz, Gilad; Shin, Eui Chul Richard; Song, Dawn, *2016 IEEE 16th international conference on data mining (ICDM)*. |
-| `horn2019autofeat` | The autofeat python library for automated feature engineering and selection (2019) — Horn, Franziska; Pack, Robert; Rieger, Michael, *Joint European Conference on Machine Learning and Knowledge Discovery in Databases*. |
-| `christ2018time` | Time series feature extraction on basis of scalable hypothesis tests (tsfresh--a python package) (2018) — Christ, Maximilian et al., *Neurocomputing*. |
-| `lubba2019catch22` | catch22: CAnonical Time-series CHaracteristics: Selected through highly comparative time-series analysis (2019) — Lubba, Carl H et al., *Data mining and knowledge discovery*. |
-| `shi2023lafem` | [Automated Feature Engineering for AutoML Using Genetic Algorithms](https://doi.org/10.5220/0012090400003555) (2023) — Shi, Kevin; Saad, Sherif, *Proceedings of the 20th International Conference on Security and Cryptography (SECRYPT)*. |
-| `lam2017one` | One button machine for automating feature engineering in relational databases (2017) — Lam, Hoang Thanh et al., *arXiv preprint arXiv:1706.00327*. |
-| `rossi2017deep` | Deep feature learning for graphs (2017) — Rossi, Ryan A; Zhou, Rong; Ahmed, Nesreen K, *arXiv preprint arXiv:1704.08829*. |
-| `hollmann2023large` | Large language models for automated data science: Introducing caafe for context-aware automated feature engineering (2023) — Hollmann, Noah; M"uller, Samuel; Hutter, Frank, *Advances in Neural Information Processing Systems*. |
-| `ko2025ferg` | FeRG-LLM: Feature engineering by reason generation large language models (2025) — Ko, Jeonghyun et al., *arXiv preprint arXiv:2503.23371*. |
-| `gijsbers2020gama` | Gama: A general automated machine learning assistant (2020) — Gijsbers, Pieter; Vanschoren, Joaquin, *Joint european conference on machine learning and knowledge discovery in databases*. |
-| `tschechlov2021automl4clust` | AutoML4Clust: Efficient AutoML for Clustering Analyses. (2021) — Tschechlov, Dennis et al., *EDBT*. |
-| `maher2019smartml` | [SmartML: A Meta Learning–Based Framework for Automated Selection and Hyperparameter Tuning for Machine Learning Algorithms](https://openproceedings.org/2019/conf/edbt/EDBT19_paper_235.pdf) (2019) — Mohamed Maher; Sherif Sakr, *22nd International Conference on Extending Database Technology (EDBT)*. |
-| `zimmer2021auto` | Auto-pytorch: Multi-fidelity metalearning for efficient and robust autodl (2021) — Zimmer, Lucas; Lindauer, Marius; Hutter, Frank, *IEEE transactions on pattern analysis and machine intelligence*. |
-| `h2o2021automl` | H2O AutoML: Scalable Automatic Machine Learning (2021) — H2O.ai. |
-| `mljar2022automl` | MLJAR AutoML: Human-in-the-Loop Machine Learning (2022) — MLJAR Team. |
-| `erickson2020autogluon` | Autogluon-tabular: Robust and accurate automl for structured data (2020) — Erickson, Nick et al., *arXiv preprint arXiv:2003.06505*. |
-| `wang2021flaml` | FLAML: A fast and lightweight AutoML library (2021) — Yujia Wang et al., *Proceedings of the MLSys Conference*. |
-| `mcginnis2023autots` | AutoTS: Automated Time Series Forecasting (2023) — Will McGinnis. |
-| `zoph2017nasnet` | Learning Transferable Architectures for Scalable Image Recognition (2018) — Zoph, Barret et al., *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. |
-| `elsken2019metanas` | [Meta-Learning of Neural Architectures for Few-Shot Learning](https://doi.org/10.1109/CVPR42600.2020.01238) (2020) — Elsken, Thomas et al., *2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. |
-| `huang2025fedmetanas` | Federated Neural Architecture Search with Model-Agnostic Meta Learning (2025) — Xinyuan Huang; Jiechao Gao, *arXiv preprint*. |
-| `garg2020direct` | Direct federated neural architecture search (2020) — Garg, Anubhav; Saha, Amit Kumar; Dutta, Debo, *arXiv preprint arXiv:2010.06223*. |
-| `olson2016evaluation` | Evaluation of a tree-based pipeline optimization tool for automating data science (2016) — Olson, Randal S et al., *Proceedings of the Genetic and Evolutionary Computation Conference*. |
-| `mlplan2018` | ML-Plan: Automated Machine Learning via Hierarchical Planning (2018) — Khurana, Udayan et al.. |
-| `drori2021alphad3m` | [AlphaD3M: Machine Learning Pipeline Synthesis](https://arxiv.org/abs/2111.02508) (2021) — Drori, Iddo et al., *Presented at the ICML 2018 AutoML Workshop*. |
-| `kirsch2023metalearning` | Meta-Learning General-Purpose Learning Algorithms with Transformers (2023) — Kirsch, Louis et al., *International Conference on Learning Representations (ICLR)*. |
-| `xu2022mtformer` | MTFormer: Multi-Task Learning via Transformer and Cross-Task Reasoning (2022) — Xiaogang Xu et al., *European Conference on Computer Vision (ECCV)*. |
-| `lv2024hyperlora` | HyperLoRA: Efficient Cross-task Generalization via Constrained Low-Rank Adapters Generation (2024) — Chuancheng Lv; Lei Li; Shitou Zhang et al., *Findings of the Association for Computational Linguistics: EMNLP*. |
-| `real2020automl` | Automl-zero: Evolving machine learning algorithms from scratch (2020) — Real, Esteban et al., *International conference on machine learning*. |
-| `schelter2018deequ` | Deequ-data quality validation for machine learning pipelines (2018) — Schelter, Sebastian et al.. |
-| `schelter2019unit` | Unit testing data with deequ (2019) — Schelter, Sebastian et al., *Proceedings of the 2019 International Conference on Management of Data*. |
-| `ovadia2019can` | Can you trust your model's uncertainty? evaluating predictive uncertainty under dataset shift (2019) — Ovadia, Yaniv et al., *Advances in neural information processing systems*. |
-| `mitchell2019model` | Model cards for model reporting (2019) — Mitchell, Margaret et al., *Proceedings of the conference on fairness, accountability, and transparency*. |
-| `polyzotis2019data` | Data validation for machine learning (2019) — Polyzotis, Neoklis et al., *Proceedings of machine learning and systems*. |
-| `redyuk2020towards` | Towards Unsupervised Data Quality Validation on Dynamic Data. (2020) — Redyuk, Sergey; Markl, Volker; Schelter, Sebastian, *EDBT/ICDT Workshops*. |
-| `maher2025mlevalpro` | ML-EvalPro: Machine Learning Evaluation Profiler for Supervised Tasks (2025) — Maher, Mohamed et al., *Proceedings of AIME 2025*. |
-| `bellamy2019aif360` | AI Fairness 360: An extensible toolkit for detecting and mitigating algorithmic bias (2019) — Bellamy, Rachel KE et al., *IBM Journal of Research and Development*. |
-| `weerts2023fairlearn` | Fairlearn: Assessing and improving fairness of ai systems (2023) — Weerts, Hilde et al., *Journal of Machine Learning Research*. |
-| `arya2020aix360` | AI explainability 360: A toolkit for interpretable machine learning (2020) — Arya, V; Bellamy, R; Chen, P et al., *IBM Research. https://aix360. mybluemix. net*. |
-| `klaise2021alibi` | Alibi explain: Algorithms for explaining machine learning models (2021) — Klaise, Janis et al., *Journal of Machine Learning Research*. |
-| `ghosh2021uq360` | Uncertainty quantification 360: a hands-on tutorial (2022) — Ghosh, Soumya et al., *Proceedings of the 5th Joint International Conference on Data Science & Management of Data (9th ACM IKDD CODS and 27th COMAD)*. |
-| `murakonda2020ml` | Ml privacy meter: Aiding regulatory compliance by quantifying the privacy risks of machine learning (2020) — Murakonda, Sasi Kumar; Shokri, Reza, *arXiv preprint arXiv:2007.09339*. |
-| `wexler2019if` | The what-if tool: Interactive probing of machine learning models (2019) — Wexler, James et al., *IEEE transactions on visualization and computer graphics*. |
-| `weerts2024fairnessautoml` | [Can Fairness be Automated? Guidelines and Opportunities for Fairness-aware AutoML](https://doi.org/10.1613/jair.1.14747) (2024) — Hilde Weerts et al., *Journal of Artificial Intelligence Research*. |
-| `liangholistic` | Holistic Evaluation of Language Models (n.d.) — Liang, Percy et al., *Transactions on Machine Learning Research*. |
-| `wang2025benchmark` | Benchmark self-evolving: A multi-agent framework for dynamic llm evaluation (2025) — Wang, Siyuan et al., *Proceedings of the 31st international conference on computational linguistics*. |
-| `baylor2017tfx` | Tfx: A tensorflow-based production-scale machine learning platform (2017) — Baylor, Denis et al., *Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining*. |
-| `kubeflowmlmd2020` | End-to-end machine learning using kubeflow (2022) — George, Johnu; Saha, Amit, *Proceedings of the 5th Joint International Conference on Data Science & Management of Data (9th ACM IKDD CODS and 27th COMAD)*. |
-| `zaharia2018mlflow` | Accelerating the machine learning lifecycle with MLflow. (2018) — Zaharia, Matei et al., *IEEE Data Eng. Bull.*. |
-| `dvc2024survey` | DVC in Open Source ML-development: The Action and the Reaction (2024) — Barreto Simedo Pacheco, Lorena et al., *Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering-Software Engineering for AI*. |
-| `crankshaw2017clipper` | Clipper: A $$Low-Latency$$ online prediction serving system (2017) — Crankshaw, Daniel et al., *14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17)*. |
-| `kserve2021transition` | Scalable Deployment of Machine Learning Models on Kubernetes Clusters: A DevOps Perspective (2024) — Patchamatla, Pavan Srikanth Subba Raju, *International Journal of Research and Applied Innovations*. |
-| `klaise2020seldon` | Scanflow-k8s: Agent-based framework for autonomic management and supervision of ml workflows in kubernetes clusters (2022) — Liu, Peini et al., *2022 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)*. |
-| `arnold2019factsheets` | FactSheets: Increasing trust in AI services through supplier's declarations of conformity (2019) — Arnold, Matthew et al., *IBM Journal of Research and Development*. |
-| `yang2024generalized` | Generalized out-of-distribution detection: A survey (2024) — Yang, Jingkang et al., *International Journal of Computer Vision*. |
-| `wu2021chacha` | ChaCha for online AutoML (2021) — Wu, Qingyun et al., *International Conference on Machine Learning*. |
-| `celik2023online` | Online automl: An adaptive automl framework for online learning (2023) — Celik, Bilge; Singh, Prabhant; Vanschoren, Joaquin, *Machine Learning*. |
-| `lyu2022one` | ONE-NAS: an online neuroevolution based neural architecture search for time series forecasting (2022) — Lyu, Zimeng; Desell, Travis, *Proceedings of the Genetic and Evolutionary Computation Conference Companion*. |
-| `kalaitzidis2025aml4s` | AML4S: An AutoML Pipeline for Data Streams (2025) — Kalaitzidis, Eleftherios et al., *Machine Learning and Knowledge Extraction*. |
-| `chaudhari2025adaptive` | [Adaptive AutoML Pipelines for Large-Scale Data Streams Under Concept Drift](https://doi.org/10.37118/ijdr.29532.04.2025) (2025) — Chaudhari, Akash Vijayrao; Charate, Pallavi Ashokrao, *International Journal of Development Research*. |
-| `verma2024asml` | Asml: A scalable and efficient AutoML solution for data streams (2024) — Verma, Nilesh et al., *AutoML 2024-International Conference on Automated Machine Learning*. |
-| `bahri2023autoclass` | Autoclass: Automl for data stream classification (2023) — Bahri, Maroua; Georgantas, Nikolaos, *2023 IEEE International Conference on Big Data (BigData)*. |
-| `zoller2024auto` | Auto-sktime: automated time series forecasting (2024) — Z"oller, Marc-Andr'e; Lindauer, Marius; Huber, Marco F, *International Conference on Learning and Intelligent Optimization*. |
-| `abdel2024fedtime` | A Federated Large Language Model for Long-Term Time Series Forecasting (2024) — Raed Abdel-Sater; A. Ben Hamza, *Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2024)*. |
-| `ramirez2024fednas` | FedNAS: A Distributed Neural Architecture Search (2024) — Ram'irez-Gordillo, Tamai et al., *2024 2nd International Conference on Federated Learning Technologies and Applications (FLTA)*. |
-| `el2025agingfednas` | AgingFedNAS: Aging Evolution Federated Deep Learning for Architecture and Hyperparameter Search (2025) — El Shawi, Radwa, *Pacific-Asia Conference on Knowledge Discovery and Data Mining*. |
-| `khodak2021federated` | Federated hyperparameter tuning: Challenges, baselines, and connections to weight-sharing (2021) — Khodak, Mikhail et al., *Advances in Neural Information Processing Systems*. |
-| `7352306` | [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://doi.org/10.1109/JPROC.2015.2494218) (2016) — Shahriari, Bobak et al., *Proceedings of the IEEE*. |
-| `frazier2018bayesian` | Bayesian optimization (2018) — Frazier, Peter I, *Recent advances in optimization and modeling of contemporary problems*. |
-| `pmlr-v70-rana17a` | [High Dimensional Bayesian Optimization with Elastic Gaussian Process](https://proceedings.mlr.press/v70/rana17a.html) (2017) — Santu Rana et al., *Proceedings of the 34th International Conference on Machine Learning*. |
-| `pmlr-v80-sui18a` | [Stagewise Safe Bayesian Optimization with Gaussian Processes](https://proceedings.mlr.press/v80/sui18a.html) (2018) — Sui, Yanan et al., *Proceedings of the 35th International Conference on Machine Learning*. |
-| `mcintire2016sparse` | Sparse Gaussian processes for Bayesian optimization. (2016) — McIntire, Mitchell; Ratner, Daniel; Ermon, Stefano, *UAI*. |
-| `lindauer2022smac3` | SMAC3: A versatile Bayesian optimization package for hyperparameter optimization (2022) — Lindauer, Marius et al., *Journal of Machine Learning Research*. |
-| `kurian2021boat` | BOAT: A bayesian optimization automl time-series framework for industrial applications (2021) — Kurian, John Joy et al., *2021 IEEE Seventh International Conference on Big Data Computing Service and Applications (BigDataService)*. |
-| `bergstra2011algorithms` | Algorithms for hyper-parameter optimization (2011) — Bergstra, James et al., *Advances in neural information processing systems*. |
-| `akiba2019optuna` | Optuna: A next-generation hyperparameter optimization framework (2019) — Akiba, Takuya et al., *Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining*. |
-| `snoek2015scalable` | Scalable bayesian optimization using deep neural networks (2015) — Snoek, Jasper et al., *International conference on machine learning*. |
-| `springenberg2016bayesian` | Bayesian optimization with robust Bayesian neural networks (2016) — Springenberg, Jost Tobias et al., *Advances in neural information processing systems*. |
-| `li2020multi` | Multi-fidelity Bayesian optimization via deep neural networks (2020) — Li, Shibo et al., *Advances in Neural Information Processing Systems*. |
-| `li2021batch` | Batch multi-fidelity Bayesian optimization with deep auto-regressive networks (2021) — Li, Shibo; Kirby, Robert; Zhe, Shandian, *Advances in Neural Information Processing Systems*. |
-| `lim2021extrapolative` | [Graph Neural Architecture Search](https://doi.org/10.24963/ijcai.2020/195) (2020) — Gao, Yang et al., *Journal of Open Source Software*. |
-| `eriksson2019scalable` | Scalable global optimization via local Bayesian optimization (2019) — Eriksson, David et al., *Advances in neural information processing systems*. |
-| `10.1145/3582078` | [Recent Advances in Bayesian Optimization](https://doi.org/10.1145/3582078) (2023) — Wang, Xilu et al., *ACM Comput. Surv.*. |
-| `lee2021nonmyopic` | A nonmyopic approach to cost-constrained Bayesian optimization (2021) — Lee, Eric Hans et al., *Uncertainty in Artificial Intelligence*. |
-| `klein2017fabolas` | Fast Bayesian optimization of machine learning hyperparameters on large datasets (2017) — Klein, Aaron et al., *Artificial Intelligence and Statistics*. |
-| `kandasamy2018l2bo` | Neural Architecture Search with Bayesian Optimisation and Optimal Transport (2018) — Kandasamy, Kirthevasan et al., *Advances in Neural Information Processing Systems*. |
-| `white2021bananas` | Bananas: Bayesian optimization with neural architectures for neural architecture search (2021) — White, Colin; Neiswanger, Willie; Savani, Yash, *Proceedings of the AAAI conference on artificial intelligence*. |
-| `chen2021progressive` | Progressive darts: Bridging the optimization gap for nas in the wild (2021) — Chen, Xin et al., *International Journal of Computer Vision*. |
-| `mellor2021neural` | Neural architecture search without training (2021) — Mellor, Joe et al., *International conference on machine learning*. |
-| `cassimon2025scalable` | Scalable reinforcement learning-based neural architecture search (2025) — Cassimon, Amber; Mercelis, Siegfried; Mets, Kevin, *Neural Computing and Applications*. |
-| `baymurzina2022review` | A review of neural architecture search (2022) — Baymurzina, Dilyara; Golikov, Eugene; Burtsev, Mikhail, *Neurocomputing*. |
-| `verma2025bayesian` | Bayesian Stream Tuner: Dynamic Hyperparameter Optimization for Real-Time Data Streams (2025) — Verma, Nilesh et al., *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2*. |
-| `royer2025osmac` | OSMAC: a dynamic SMAC for data streams (2025) — Royer, 'Emile; Bahri, Maroua; Georgantas, Nikolaos, *2025 IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI)*. |
-| `pmlr-v188-wan22a` | [Bayesian Generational Population-Based Training](https://proceedings.mlr.press/v188/wan22a.html) (2022) — Wan, Xingchen et al., *Proceedings of the First International Conference on Automated Machine Learning*. |
-| `al2024collaborative` | Collaborative and federated black-box optimization: A Bayesian optimization perspective (2024) — Al Kontar, Raed, *2024 IEEE International Conference on Big Data (BigData)*. |
-| `yue2025collaborative` | Collaborative and distributed bayesian optimization via consensus (2025) — Yue, Xubo et al., *IEEE Transactions on Automation Science and Engineering*. |
-| `dai2020federated` | Federated Bayesian optimization via Thompson sampling (2020) — Dai, Zhongxiang; Low, Bryan Kian Hsiang; Jaillet, Patrick, *Advances in Neural Information Processing Systems*. |
-| `gijsbers2019gama` | [GAMA: A Genetic Automated Machine Learning Assistant](https://doi.org/10.21105/joss.01132) (2019) — Pieter Gijsbers et al., *Journal of Open Source Software*. |
-| `real2017large` | Large-Scale Evolution of Image Classifiers (2017) — Esteban Real et al., *Proceedings of the 34th International Conference on Machine Learning (ICML 2017)*. |
-| `real2019regularized` | [Regularized Evolution for Image Classifier Architecture Search](https://doi.org/10.1609/aaai.v33i01.33014780) (2019) — Esteban Real et al., *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2019)*. |
-| `lu2019nsga` | Nsga-net: neural architecture search using multi-objective genetic algorithm (2019) — Lu, Zhichao et al., *Proceedings of the genetic and evolutionary computation conference*. |
-| `li2019pbt` | A generalized framework for population based training (2019) — Li, Ang et al., *Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining*. |
-| `awad2021dehb` | DEHB: Evolutionary Hyperband for Scalable, Robust and Efficient Hyperparameter Optimization (2021) — Noha Awad; Neeratyoy Mallik; Frank Hutter, *Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI-21)*. |
-| `jamieson2016successive` | Non-stochastic best arm identification and hyperparameter optimization (2016) — Jamieson, Kevin; Talwalkar, Ameet, *Artificial intelligence and statistics*. |
-| `li2018massively` | A system for massively parallel hyperparameter tuning (2020) — Li, Liam et al., *Proceedings of machine learning and systems*. |
-| `domhan2015curve` | Speeding up automatic hyperparameter optimization of deep neural networks by extrapolation of learning curves. (2015) — Domhan, Tobias; Springenberg, Jost Tobias; Hutter, Frank et al., *IJCAI*. |
-| `cai2019proxylessnas` | Proxylessnas: Direct neural architecture search on target task and hardware (2018) — Cai, Han; Zhu, Ligeng; Han, Song, *arXiv preprint arXiv:1812.00332*. |
-| `cai2020onceforall` | [Once for All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/pdf/1908.09791.pdf) (2020) — Han Cai et al., *International Conference on Learning Representations*. |
-| `yang2019oboe` | OBOE: Collaborative filtering for AutoML model selection (2019) — Yang, Chengrun et al., *Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining*. |
-| `yang2020tensoroboe` | Efficient automl pipeline search with matrix and tensor factorization (2020) — Yang, Chengrun et al., *arXiv preprint arXiv:2006.04216*. |
-| `feurer2015initbo` | Initializing bayesian hyperparameter optimization via meta-learning (2015) — Feurer, Matthias; Springenberg, Jost; Hutter, Frank, *Proceedings of the AAAI conference on artificial intelligence*. |
-| `perrone2018shtl` | Scalable hyperparameter transfer learning (2018) — Perrone, Valerio et al., *Advances in neural information processing systems*. |
-| `fusi2018pmf` | Probabilistic matrix factorization for automated machine learning (2018) — Fusi, Nicolo; Sheth, Rishit; Elibol, Melih, *Advances in neural information processing systems*. |
-| `salinas2020qhtl` | A quantile-based approach for hyperparameter transfer learning (2020) — Salinas, David; Shen, Huibin; Perrone, Valerio, *International conference on machine learning*. |
-| `rakotoarison2022metafeatures` | Learning meta-features for automl (2022) — Rakotoarison, Herilalaina et al., *ICLR 2022-International Conference on Learning Representations (spotlight)*. |
-| `abdelrahman2025smartcal` | [SmartCal: A Novel Automated Approach to Classifier Probability Calibration](https://proceedings.mlr.press/v293/abdelrahman25a.html) (2025) — Abdelrahman, Mohamed Maher et al., *Proceedings of the Fourth International Conference on Automated Machine Learning*. |
-| `jomaa2021dataset2vec` | Dataset2vec: Learning dataset meta-features (2021) — Jomaa, Hadi S; Schmidt-Thieme, Lars; Grabocka, Josif, *Data Mining and Knowledge Discovery*. |
-| `volpp2020metabo` | Meta-learning acquisition functions for transfer learning in bayesian optimization (2019) — Volpp, Michael et al., *arXiv preprint arXiv:1904.02642*. |
-| `andrychowicz2016learning` | Learning to learn by gradient descent by gradient descent (2016) — Andrychowicz, Marcin et al., *Advances in neural information processing systems*. |
-| `chen2022optformer` | Towards learning universal hyperparameter optimizers with transformers (2022) — Chen, Yutian et al., *Advances in Neural Information Processing Systems*. |
-| `zela2019understanding` | [Understanding and Robustifying Differentiable Architecture Search](https://openreview.net/forum?id=H1gDNyrKDS) (2020) — Arber Zela et al., *International Conference on Learning Representations*. |
-| `chu2021dartsminus` | [DARTS-: Robustly Stepping out of Performance Collapse Without Indicators](https://openreview.net/forum?id=KLH36ELmwIB) (2021) — Xiangxiang Chu et al., *International Conference on Learning Representations*. |
-| `chen2019pdarts` | Progressive differentiable architecture search: Bridging the depth gap between search and evaluation (2019) — Chen, Xin et al., *Proceedings of the IEEE/CVF international conference on computer vision*. |
-| `xu2020pcdarts` | [PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search](https://openreview.net/forum?id=BJlS634tPr) (2020) — Yuhui Xu et al., *International Conference on Learning Representations*. |
-| `xie2019snas` | [SNAS: stochastic neural architecture search](https://openreview.net/forum?id=rylqooRqK7) (2019) — Sirui Xie et al., *International Conference on Learning Representations*. |
-| `dong2019gdas` | Searching for a robust neural architecture in four gpu hours (2019) — Dong, Xuanyi; Yang, Yi, *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition*. |
-| `chen2021drnas` | [DrNAS: Dirichlet Neural Architecture Search](https://openreview.net/forum?id=9FWas6YbmB3) (2021) — Xiangning Chen et al., *International Conference on Learning Representations*. |
-| `wu2019fbnet` | Fbnet: Hardware-aware efficient convnet design via differentiable neural architecture search (2019) — Wu, Bichen et al., *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition*. |
-| `zoph2018nasnet` | Learning transferable architectures for scalable image recognition (2018) — Zoph, Barret et al., *Proceedings of the IEEE conference on computer vision and pattern recognition*. |
-| `baker2017metaqnn` | [Designing Neural Network Architectures using Reinforcement Learning](https://openreview.net/forum?id=S1c2cvqee) (2017) — Bowen Baker et al., *International Conference on Learning Representations*. |
-| `tan2019mnasnet` | Mnasnet: Platform-aware neural architecture search for mobile (2019) — Tan, Mingxing et al., *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition*. |
-| `cubuk2019autoaugment` | AutoAugment: Learning Augmentation Policies from Data (2019) — Cubuk, Ekin D. et al., *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. |
-| `gao2019graphnas` | [Graph Neural Architecture Search](https://doi.org/10.24963/ijcai.2020/195) (2020) — Gao, Yang et al., *Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI-20*. |
-| `hollmann2025tabpfn` | Accurate predictions on small data with a tabular foundation model (2025) — Hollmann, Noah et al., *Nature*. |
-| `helli2024driftresilienttabpfn` | Drift-resilient tabPFN: In-context learning temporal distribution shifts on tabular data (2024) — Helli, Kai et al., *Advances in Neural Information Processing Systems*. |
-| `qu2025tabicl` | TabICL: A Tabular Foundation Model for In-Context Learning on Large Data (n.d.) — Jingang, QU et al., *Forty-second International Conference on Machine Learning*. |
-| `xu2024llms_automl` | Large language models synergize with automated machine learning (2024) — Xu, Jinglue et al., *arXiv preprint arXiv:2405.03727*. |
-| `choi2023aliro` | Aliro: an automated machine learning tool leveraging large language models (2023) — Choi, Hyunjun et al., *Bioinformatics*. |
-| `nguyen2023fairautoml` | [Fix Fairness, Don’t Ruin Accuracy: Performance-Aware Fairness Repair using AutoML](https://doi.org/10.1145/3611643.3616257) (2023) — Nguyen, Duc-Huy et al., *Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*. |
-| `robertson2024manyfairhpo` | [A Human-in-the-Loop Fairness-Aware Model Selection Framework for Complex Fairness Objective Landscapes](https://ojs.aaai.org/index.php/AIES/article/view/31719) (2024) — Jake Robertson et al., *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES-24)*. |
-| `wu2023causalfairness` | Fair Machine Learning Through the Lens of Causality (2023) — Wu, Xintao et al., *Machine Learning for Causal Inference*. |
-| `binkyte2023causalfairness` | [Causal Discovery for Fairness](https://proceedings.mlr.press/v214/binkyte23a.html) (2023) — Binkytė, Vaiva et al., *Proceedings of the Workshop on Algorithmic Fairness through the Lens of Causality and Privacy*. |
-| `garg2020dpfnas` | [Differentially-private Federated Neural Architecture Search](https://arxiv.org/abs/2006.10559) (2020) — Ishika Singh et al., *arXiv preprint arXiv:2006.10559*. |
-| `ibrahim2025dpai` | Differential privacy and artificial intelligence: potentials, challenges, and future avenues (2025) — Alzoubi, Yehia Ibrahim; Mishra, Alok, *EURASIP Journal on Information Security*. |
-| `yan2022hyperfd` | [Privacy-Preserving Online AutoML for Domain-Specific Face Detection](https://doi.org/10.48550/arXiv.2203.08399) (2022) — Chenqian Yan et al., *Proceedings of CVPR*. |
-| `bakhtiarifard2024ecnas` | [EC-NAS: Energy Consumption Aware Tabular Benchmarks for Neural Architecture Search](https://arxiv.org/abs/2210.06015) (2024) — Bakhtiarifard, Pedram; Igel, Christian; Selvan, Raghavendra, *ICASSP 2024 - IEEE International Conference on Acoustics, Speech and Signal Processing*. |
-| `dou2023eahasbench` | [EA-HAS-Bench: Energy-Aware Hyperparameter and Architecture Search Benchmark](https://github.com/microsoft/EA-HAS-Bench) (2023) — Dou, Shuguang et al., *International Conference on Learning Representations (ICLR)*. |
-| `xu2021knas` | [KNAS: Green Neural Architecture Search](https://proceedings.mlr.press/v139/xu21m.html) (2021) — Xu, Jingjing et al., *Proceedings of the 38th International Conference on Machine Learning*. |
-| `codecarbon2025` | CodeCarbon: Track and Reduce Carbon Emissions from Computing (2025) — CodeCarbon Team. |
-| `lacoste2019quantifying` | [Quantifying the Carbon Emissions of Machine Learning](https://arxiv.org/abs/1910.09700) (2019) — Lacoste, Alexandre et al., *arXiv preprint arXiv:1910.09700*. |
-| `atmseer` | [ATMSeer: Increasing Transparency and Controllability in Automated Machine Learning](https://arxiv.org/pdf/1902.05009) (2019) — Wang, Qianwen et al., *Proceedings of the CHI Conference on Human Factors in Computing Systems*. |
-| `ixautoml` | ixAutoML: Interactive and Explainable AutoML (2025) — Lindauer, Marius; Feurer, Matthias; Tornede, Alexander et al., *Accessed: 2025-12-03*. |
-| `xautoml` | [XAutoML: A Visual Analytics Tool for Understanding and Validating Automated Machine Learning](https://arxiv.org/abs/2202.11954) (2023) — Zöller, Marc-André et al., *ACM Transactions on Interactive Intelligent Systems*. |
-| `malik2025sustainaml` | SustainaML: Enhancing Transparency, Control, and Green Sustainability in AutoML (2025) — Malik, Mehak Mushtaq; Shawi, Radwa El, *Joint European Conference on Machine Learning and Knowledge Discovery in Databases*. |
-| `mljarExplain` | Explainability in MLJAR AutoML (2025) — MLJAR Team, *Accessed: 12-03-2026*. |
-| `h2oInterpretability` | [Understanding Deep Learning Using Explainable Machine Learning with LIME and H2O AutoML](https://doi.org/10.1007/978-3-031-64776-5_27) (2024) — Garg, Aradya; Chaudhary, Alka, *Intelligent Systems Design and Applications (ISDA 2023)*. |
-| `liu2022fairnessaccuracy` | [Accuracy and fairness trade-offs in machine learning: a stochastic multi-objective approach](https://doi.org/10.1007/s10287-022-00425-z) (2022) — Liu, Suyun; Vicente, Luis Nunes, *Computational Management Science*. |
-| `autom3l2024` | [AutoM3L: An Automated Multimodal Machine Learning Framework with Large Language Models](https://arxiv.org/abs/2408.00665) (2024) — Luo, Daqin et al., *arXiv preprint*. |
-| `FEATHERS2022` | [FEATHERS: Federated Architecture and Hyperparameter Search](https://arxiv.org/abs/2206.12342) (2022) — Seng, Jonas et al., *arXiv preprint arXiv:2206.12342*. |
-| `lin2022recross` | Unsupervised Cross-Task Generalization via Retrieval Augmentation (2022) — Bill Yuchen Lin et al., *arXiv preprint arXiv:2204.07937*. |
-| `zhang2023autogl` | [AutoGL: A Library for Automated Graph Learning](https://github.com/THUMNLab/AutoGL) (2023) — Ziwei Zhang et al., *Proceedings of the 40th International Conference on Machine Learning (ICML)*. |
-| `horn2020autofeat` | **Missing from parsed BibTeX or requires manual normalization.** |
-| `featuretools2019` | **Missing from parsed BibTeX or requires manual normalization.** |
-| `wang2019alphax` | AlphaX: Exploring neural architectures with deep reinforcement learning (2019) — Wang, Yujia et al., *International Conference on Learning Representations*. |
-| `hong2025datainterpreter` | Data interpreter: An llm agent for data science (2025) — Hong, Sirui et al., *Findings of the Association for Computational Linguistics: ACL 2025*. |
+
+| Reference |
+|---|
+| [Automated Machine Learning: Methods, Systems, Challenges](https://doi.org/10.1007/978-3-030-05318-5) (2019) — Unknown authors, *Springer*. |
+| Taking human out of learning applications: A survey on automated machine learning (2018) — Yao, Quanming et al., *arXiv preprint arXiv:1810.13306*. |
+| Automated machine learning: State-of-the-art and open challenges (2019) — Elshawi, Radwa; Maher, Mohamed; Sakr, Sherif, *arXiv preprint arXiv:1906.02287*. |
+| Benchmark and survey of automated machine learning frameworks (2021) — Z"oller, Marc-Andr'e; Huber, Marco F, *Journal of Artificial Intelligence Research*. |
+| Neural Architecture Search with Reinforcement Learning (2017) — Barret Zoph; Quoc Le, *International Conference on Learning Representations*. |
+| DARTS: Differentiable Architecture Search (2019) — Liu, Hanxiao; Simonyan, Karen; Yang, Yiming, *International Conference on Learning Representations*. |
+| AutoML: A survey of the state-of-the-art (2021) — He, Xin; Zhao, Kai; Chu, Xiaowen, *Knowledge-Based Systems*. |
+| Automated machine learning: past, present and future (2024) — Baratchi, Mitra et al., *Artificial intelligence review*. |
+| [FedForecaster: An Automated Federated Learning Approach for Time-series Forecasting](https://doi.org/10.48786/EDBT.2025.70) (2025) — Mahmoud Saeed Mesmeh, Mohamed Maher, Osama Fayez Oun, Radwa ElShawi, *Proceedings of the International Conference on Extending Database Technology (EDBT)*. |
+| GizaML: A Collaborative Meta-learning Based Framework Using LLM For Automated Time-Series Forecasting. (2024) — Sayed, Esraa et al., *EDBT*. |
+| Onlineautoclust: A framework for online automated clustering (2023) — El Shawi, Radwa; Rozgonjuk, Dmitri, *Proceedings of the 32nd ACM International Conference on Information and Knowledge Management*. |
+| Automl to date and beyond: Challenges and opportunities (2021) — Karmaker, Shubhra Kanti et al., *Acm computing surveys (csur)*. |
+| Eight years of AutoML: categorisation, review and trends (2023) — Barbudo, Rafael; Ventura, Sebasti'an; Romero, Jos'e Ra'ul, *Knowledge and Information Systems*. |
+| [A systematic literature review on AutoML for multi-target learning tasks](https://doi.org/10.1007/s10462-023-10569-2) (2023) — Del Valle, Aline Marques; Mantovani, Rafael Gomes; Cerri, Ricardo, *Artificial Intelligence Review*. |
+| AutoML: A systematic review on automated machine learning with neural architecture search (2024) — Salehin, Imrus et al., *Journal of Information and Intelligence*. |
+| Review of ML and AutoML solutions to forecast time-series data (2022) — Alsharef, Ahmad et al., *Archives of Computational Methods in Engineering*. |
+| A survey on automl methods and systems for clustering (2024) — Poulakis, Yannis; Doulkeridis, Christos; Kyriazis, Dimosthenis, *ACM Transactions on Knowledge Discovery from Data*. |
+| [AutoML: A Tertiary Study of Phases, Methods, Tools, and Frameworks](https://doi.org/10.1007/978-3-032-04403-7_26) (2025) — Keerthiga Rajenthiram; Pauline Delporte; Patricia Lago, *Proceedings of the European Conference on Software Architecture (ECSA)*. |
+| Performing systematic literature reviews in software engineering (2006) — Budgen, David; Brereton, Pearl, *Proceedings of the 28th international conference on Software engineering*. |
+| Auto-WEKA 2.0: Automatic model selection and hyperparameter optimization in WEKA (2017) — Kotthoff, Lars et al., *Journal of Machine Learning Research*. |
+| TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Single Forward Pass (2023) — Frank Hutter et al., *arXiv preprint arXiv:2207.01848*. |
+| Fair-AutoML: Bias-Aware Automation in Machine Learning (2024) — Komala, Priya et al., *AI Ethics Journal*. |
+| A Review on Interplay of AutoML and MLOps “AutoMLOps”: Current State, Challenges, and Future Scope (2025) — Singh, Kuldeep; Goswami, Anurag; Kukreja, Sonal, *International Conference on Computing and Communication Networks*. |
+| Flora: Single-shot hyper-parameter optimization for federated learning (2021) — Zhou, Yi et al., *arXiv preprint arXiv:2112.08524*. |
+| AutoGluon--TimeSeries: AutoML for probabilistic time series forecasting (2023) — Shchur, Oleksandr et al., *International Conference on Automated Machine Learning*. |
+| Personalized federated learning: A meta-learning approach (2020) — Fallah, Alireza; Mokhtari, Aryan; Ozdaglar, Asuman, *arXiv preprint arXiv:2002.07948*. |
+| Direct Federated Neural Architecture Search (2020) — Anubhav Garg; Amit Kumar Saha; Debo Dutta, *Proceedings of NeurIPS*. |
+| A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks (2017) — Dan Hendrycks; Kevin Gimpel, *Proceedings of International Conference on Learning Representations*. |
+| Adaptation strategies for automated machine learning on evolving data (2021) — Celik, Bilge; Vanschoren, Joaquin, *IEEE transactions on pattern analysis and machine intelligence*. |
+| Practical bayesian optimization of machine learning algorithms (2012) — Snoek, Jasper; Larochelle, Hugo; Adams, Ryan P, *Advances in neural information processing systems*. |
+| Hyperband: A novel bandit-based approach to hyperparameter optimization (2018) — Li, Lisha et al., *Journal of Machine Learning Research*. |
+| BOHB: Robust and efficient hyperparameter optimization at scale (2018) — Falkner, Stefan; Klein, Aaron; Hutter, Frank, *International conference on machine learning*. |
+| ADELA: Surrogate-assisted evolutionary pipeline optimization (2025) — Anthes, Philipp; Sobania, Dominik; Rothlauf, Franz, *arXiv preprint arXiv:2501.18479*. |
+| Meta-learning: A survey (2019) — Elsken, Thomas; Hutter, Frank; Bergstra, James, *arXiv preprint arXiv:1904.03493*. |
+| **Missing from parsed BibTeX or requires manual normalization.** |
+| **Missing from parsed BibTeX or requires manual normalization.** |
+| AutoML-GPT: Instruction-Tuned Large Language Models for Automated Machine Learning (2023) — Zou, Yufeng et al., *arXiv preprint arXiv:2305.03403*. |
+| Smpai: Secure multi-party computation for federated learning (2019) — Mugunthan, Vaikkunth et al., *Proceedings of the NeurIPS 2019 Workshop on Robust AI in Financial Services*. |
+| [Green AI](https://doi.org/10.1145/3351449) (2019) — Roy Schwartz et al., *Communications of the ACM*. |
+| [Towards Green AutoML: Optimizing for Energy Efficiency and Carbon Footprint](https://arxiv.org/abs/2306.00000) (2023) — Alexander Tornede; Frank Hutter, *Proceedings of the AutoML Conference*. |
+| [Human-Centered Approaches for Provenance in Automated Data Science (Dagstuhl Seminar 23372)](https://doi.org/10.4230/DagRep.13.9.116) (2024) — Anamaria Crisan et al., *Dagstuhl Reports*. |
+| [Position: A Call to Action for a Human-Centered AutoML Paradigm](https://arxiv.org/pdf/2406.03348) (2024) — Lindauer, Marius et al., *Proceedings of the 41st International Conference on Machine Learning*. |
+| Efficient neural architecture search via parameters sharing (2018) — Pham, Hieu et al., *International conference on machine learning*. |
+| Auto-sklearn 2.0: Hands-free automl via meta-learning (2022) — Feurer, Matthias et al., *Journal of Machine Learning Research*. |
+| Meta-Learning General-Purpose Learning Algorithms with Transformers (2023) — Louis Kirsch et al., *International Conference on Learning Representations (ICLR)*. |
+| What metrics are commonly used to evaluate AutoML performance? (2025) — Milvus Blog, *Accessed: 2025-11-05*. |
+| Reinforcement learning: An introduction. by richard’s sutton (2021) — Barto, Andrew G, *SIAM Rev*. |
+| Automated reinforcement learning (autorl): A survey and open problems (2022) — Parker-Holder, Jack et al., *Journal of Artificial Intelligence Research*. |
+| Contextualize Me--The Case for Context in Reinforcement Learning (2022) — Benjamins, Carolin et al., *arXiv preprint arXiv:2202.04500*. |
+| Explorekit: Automatic feature generation and selection (2016) — Katz, Gilad; Shin, Eui Chul Richard; Song, Dawn, *2016 IEEE 16th international conference on data mining (ICDM)*. |
+| The autofeat python library for automated feature engineering and selection (2019) — Horn, Franziska; Pack, Robert; Rieger, Michael, *Joint European Conference on Machine Learning and Knowledge Discovery in Databases*. |
+| Time series feature extraction on basis of scalable hypothesis tests (tsfresh--a python package) (2018) — Christ, Maximilian et al., *Neurocomputing*. |
+| catch22: CAnonical Time-series CHaracteristics: Selected through highly comparative time-series analysis (2019) — Lubba, Carl H et al., *Data mining and knowledge discovery*. |
+| [Automated Feature Engineering for AutoML Using Genetic Algorithms](https://doi.org/10.5220/0012090400003555) (2023) — Shi, Kevin; Saad, Sherif, *Proceedings of the 20th International Conference on Security and Cryptography (SECRYPT)*. |
+| One button machine for automating feature engineering in relational databases (2017) — Lam, Hoang Thanh et al., *arXiv preprint arXiv:1706.00327*. |
+| Deep feature learning for graphs (2017) — Rossi, Ryan A; Zhou, Rong; Ahmed, Nesreen K, *arXiv preprint arXiv:1704.08829*. |
+| Large language models for automated data science: Introducing caafe for context-aware automated feature engineering (2023) — Hollmann, Noah; M"uller, Samuel; Hutter, Frank, *Advances in Neural Information Processing Systems*. |
+| FeRG-LLM: Feature engineering by reason generation large language models (2025) — Ko, Jeonghyun et al., *arXiv preprint arXiv:2503.23371*. |
+| Gama: A general automated machine learning assistant (2020) — Gijsbers, Pieter; Vanschoren, Joaquin, *Joint european conference on machine learning and knowledge discovery in databases*. |
+| AutoML4Clust: Efficient AutoML for Clustering Analyses. (2021) — Tschechlov, Dennis et al., *EDBT*. |
+| [SmartML: A Meta Learning–Based Framework for Automated Selection and Hyperparameter Tuning for Machine Learning Algorithms](https://openproceedings.org/2019/conf/edbt/EDBT19_paper_235.pdf) (2019) — Mohamed Maher; Sherif Sakr, *22nd International Conference on Extending Database Technology (EDBT)*. |
+| Auto-pytorch: Multi-fidelity metalearning for efficient and robust autodl (2021) — Zimmer, Lucas; Lindauer, Marius; Hutter, Frank, *IEEE transactions on pattern analysis and machine intelligence*. |
+| H2O AutoML: Scalable Automatic Machine Learning (2021) — H2O.ai. |
+| MLJAR AutoML: Human-in-the-Loop Machine Learning (2022) — MLJAR Team. |
+| Autogluon-tabular: Robust and accurate automl for structured data (2020) — Erickson, Nick et al., *arXiv preprint arXiv:2003.06505*. |
+| FLAML: A fast and lightweight AutoML library (2021) — Yujia Wang et al., *Proceedings of the MLSys Conference*. |
+| AutoTS: Automated Time Series Forecasting (2023) — Will McGinnis. |
+| Learning Transferable Architectures for Scalable Image Recognition (2018) — Zoph, Barret et al., *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. |
+| [Meta-Learning of Neural Architectures for Few-Shot Learning](https://doi.org/10.1109/CVPR42600.2020.01238) (2020) — Elsken, Thomas et al., *2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. |
+| Federated Neural Architecture Search with Model-Agnostic Meta Learning (2025) — Xinyuan Huang; Jiechao Gao, *arXiv preprint*. |
+| Direct federated neural architecture search (2020) — Garg, Anubhav; Saha, Amit Kumar; Dutta, Debo, *arXiv preprint arXiv:2010.06223*. |
+| Evaluation of a tree-based pipeline optimization tool for automating data science (2016) — Olson, Randal S et al., *Proceedings of the Genetic and Evolutionary Computation Conference*. |
+| ML-Plan: Automated Machine Learning via Hierarchical Planning (2018) — Khurana, Udayan et al.. |
+| [AlphaD3M: Machine Learning Pipeline Synthesis](https://arxiv.org/abs/2111.02508) (2021) — Drori, Iddo et al., *Presented at the ICML 2018 AutoML Workshop*. |
+| Meta-Learning General-Purpose Learning Algorithms with Transformers (2023) — Kirsch, Louis et al., *International Conference on Learning Representations (ICLR)*. |
+| MTFormer: Multi-Task Learning via Transformer and Cross-Task Reasoning (2022) — Xiaogang Xu et al., *European Conference on Computer Vision (ECCV)*. |
+| HyperLoRA: Efficient Cross-task Generalization via Constrained Low-Rank Adapters Generation (2024) — Chuancheng Lv; Lei Li; Shitou Zhang et al., *Findings of the Association for Computational Linguistics: EMNLP*. |
+| Automl-zero: Evolving machine learning algorithms from scratch (2020) — Real, Esteban et al., *International conference on machine learning*. |
+| Deequ-data quality validation for machine learning pipelines (2018) — Schelter, Sebastian et al.. |
+| Unit testing data with deequ (2019) — Schelter, Sebastian et al., *Proceedings of the 2019 International Conference on Management of Data*. |
+| Can you trust your model's uncertainty? evaluating predictive uncertainty under dataset shift (2019) — Ovadia, Yaniv et al., *Advances in neural information processing systems*. |
+| Model cards for model reporting (2019) — Mitchell, Margaret et al., *Proceedings of the conference on fairness, accountability, and transparency*. |
+| Data validation for machine learning (2019) — Polyzotis, Neoklis et al., *Proceedings of machine learning and systems*. |
+| Towards Unsupervised Data Quality Validation on Dynamic Data. (2020) — Redyuk, Sergey; Markl, Volker; Schelter, Sebastian, *EDBT/ICDT Workshops*. |
+| ML-EvalPro: Machine Learning Evaluation Profiler for Supervised Tasks (2025) — Maher, Mohamed et al., *Proceedings of AIME 2025*. |
+| AI Fairness 360: An extensible toolkit for detecting and mitigating algorithmic bias (2019) — Bellamy, Rachel KE et al., *IBM Journal of Research and Development*. |
+| Fairlearn: Assessing and improving fairness of ai systems (2023) — Weerts, Hilde et al., *Journal of Machine Learning Research*. |
+| AI explainability 360: A toolkit for interpretable machine learning (2020) — Arya, V; Bellamy, R; Chen, P et al., *IBM Research. https://aix360. mybluemix. net*. |
+| Alibi explain: Algorithms for explaining machine learning models (2021) — Klaise, Janis et al., *Journal of Machine Learning Research*. |
+| Uncertainty quantification 360: a hands-on tutorial (2022) — Ghosh, Soumya et al., *Proceedings of the 5th Joint International Conference on Data Science & Management of Data (9th ACM IKDD CODS and 27th COMAD)*. |
+| Ml privacy meter: Aiding regulatory compliance by quantifying the privacy risks of machine learning (2020) — Murakonda, Sasi Kumar; Shokri, Reza, *arXiv preprint arXiv:2007.09339*. |
+| The what-if tool: Interactive probing of machine learning models (2019) — Wexler, James et al., *IEEE transactions on visualization and computer graphics*. |
+| [Can Fairness be Automated? Guidelines and Opportunities for Fairness-aware AutoML](https://doi.org/10.1613/jair.1.14747) (2024) — Hilde Weerts et al., *Journal of Artificial Intelligence Research*. |
+| Holistic Evaluation of Language Models (n.d.) — Liang, Percy et al., *Transactions on Machine Learning Research*. |
+| Benchmark self-evolving: A multi-agent framework for dynamic llm evaluation (2025) — Wang, Siyuan et al., *Proceedings of the 31st international conference on computational linguistics*. |
+| Tfx: A tensorflow-based production-scale machine learning platform (2017) — Baylor, Denis et al., *Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining*. |
+| End-to-end machine learning using kubeflow (2022) — George, Johnu; Saha, Amit, *Proceedings of the 5th Joint International Conference on Data Science & Management of Data (9th ACM IKDD CODS and 27th COMAD)*. |
+| Accelerating the machine learning lifecycle with MLflow. (2018) — Zaharia, Matei et al., *IEEE Data Eng. Bull.*. |
+| DVC in Open Source ML-development: The Action and the Reaction (2024) — Barreto Simedo Pacheco, Lorena et al., *Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering-Software Engineering for AI*. |
+| Clipper: A $$Low-Latency$$ online prediction serving system (2017) — Crankshaw, Daniel et al., *14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17)*. |
+| Scalable Deployment of Machine Learning Models on Kubernetes Clusters: A DevOps Perspective (2024) — Patchamatla, Pavan Srikanth Subba Raju, *International Journal of Research and Applied Innovations*. |
+| Scanflow-k8s: Agent-based framework for autonomic management and supervision of ml workflows in kubernetes clusters (2022) — Liu, Peini et al., *2022 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)*. |
+| FactSheets: Increasing trust in AI services through supplier's declarations of conformity (2019) — Arnold, Matthew et al., *IBM Journal of Research and Development*. |
+| Generalized out-of-distribution detection: A survey (2024) — Yang, Jingkang et al., *International Journal of Computer Vision*. |
+| ChaCha for online AutoML (2021) — Wu, Qingyun et al., *International Conference on Machine Learning*. |
+| Online automl: An adaptive automl framework for online learning (2023) — Celik, Bilge; Singh, Prabhant; Vanschoren, Joaquin, *Machine Learning*. |
+| ONE-NAS: an online neuroevolution based neural architecture search for time series forecasting (2022) — Lyu, Zimeng; Desell, Travis, *Proceedings of the Genetic and Evolutionary Computation Conference Companion*. |
+| AML4S: An AutoML Pipeline for Data Streams (2025) — Kalaitzidis, Eleftherios et al., *Machine Learning and Knowledge Extraction*. |
+| [Adaptive AutoML Pipelines for Large-Scale Data Streams Under Concept Drift](https://doi.org/10.37118/ijdr.29532.04.2025) (2025) — Chaudhari, Akash Vijayrao; Charate, Pallavi Ashokrao, *International Journal of Development Research*. |
+| Asml: A scalable and efficient AutoML solution for data streams (2024) — Verma, Nilesh et al., *AutoML 2024-International Conference on Automated Machine Learning*. |
+| Autoclass: Automl for data stream classification (2023) — Bahri, Maroua; Georgantas, Nikolaos, *2023 IEEE International Conference on Big Data (BigData)*. |
+| Auto-sktime: automated time series forecasting (2024) — Z"oller, Marc-Andr'e; Lindauer, Marius; Huber, Marco F, *International Conference on Learning and Intelligent Optimization*. |
+| A Federated Large Language Model for Long-Term Time Series Forecasting (2024) — Raed Abdel-Sater; A. Ben Hamza, *Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2024)*. |
+| FedNAS: A Distributed Neural Architecture Search (2024) — Ram'irez-Gordillo, Tamai et al., *2024 2nd International Conference on Federated Learning Technologies and Applications (FLTA)*. |
+| AgingFedNAS: Aging Evolution Federated Deep Learning for Architecture and Hyperparameter Search (2025) — El Shawi, Radwa, *Pacific-Asia Conference on Knowledge Discovery and Data Mining*. |
+| Federated hyperparameter tuning: Challenges, baselines, and connections to weight-sharing (2021) — Khodak, Mikhail et al., *Advances in Neural Information Processing Systems*. |
+| [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://doi.org/10.1109/JPROC.2015.2494218) (2016) — Shahriari, Bobak et al., *Proceedings of the IEEE*. |
+| Bayesian optimization (2018) — Frazier, Peter I, *Recent advances in optimization and modeling of contemporary problems*. |
+| [High Dimensional Bayesian Optimization with Elastic Gaussian Process](https://proceedings.mlr.press/v70/rana17a.html) (2017) — Santu Rana et al., *Proceedings of the 34th International Conference on Machine Learning*. |
+| [Stagewise Safe Bayesian Optimization with Gaussian Processes](https://proceedings.mlr.press/v80/sui18a.html) (2018) — Sui, Yanan et al., *Proceedings of the 35th International Conference on Machine Learning*. |
+| Sparse Gaussian processes for Bayesian optimization. (2016) — McIntire, Mitchell; Ratner, Daniel; Ermon, Stefano, *UAI*. |
+| SMAC3: A versatile Bayesian optimization package for hyperparameter optimization (2022) — Lindauer, Marius et al., *Journal of Machine Learning Research*. |
+| BOAT: A bayesian optimization automl time-series framework for industrial applications (2021) — Kurian, John Joy et al., *2021 IEEE Seventh International Conference on Big Data Computing Service and Applications (BigDataService)*. |
+| Algorithms for hyper-parameter optimization (2011) — Bergstra, James et al., *Advances in neural information processing systems*. |
+| Optuna: A next-generation hyperparameter optimization framework (2019) — Akiba, Takuya et al., *Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining*. |
+| Scalable bayesian optimization using deep neural networks (2015) — Snoek, Jasper et al., *International conference on machine learning*. |
+| Bayesian optimization with robust Bayesian neural networks (2016) — Springenberg, Jost Tobias et al., *Advances in neural information processing systems*. |
+| Multi-fidelity Bayesian optimization via deep neural networks (2020) — Li, Shibo et al., *Advances in Neural Information Processing Systems*. |
+| Batch multi-fidelity Bayesian optimization with deep auto-regressive networks (2021) — Li, Shibo; Kirby, Robert; Zhe, Shandian, *Advances in Neural Information Processing Systems*. |
+| [Graph Neural Architecture Search](https://doi.org/10.24963/ijcai.2020/195) (2020) — Gao, Yang et al., *Journal of Open Source Software*. |
+| Scalable global optimization via local Bayesian optimization (2019) — Eriksson, David et al., *Advances in neural information processing systems*. |
+| [Recent Advances in Bayesian Optimization](https://doi.org/10.1145/3582078) (2023) — Wang, Xilu et al., *ACM Comput. Surv.*. |
+| A nonmyopic approach to cost-constrained Bayesian optimization (2021) — Lee, Eric Hans et al., *Uncertainty in Artificial Intelligence*. |
+| Fast Bayesian optimization of machine learning hyperparameters on large datasets (2017) — Klein, Aaron et al., *Artificial Intelligence and Statistics*. |
+| Neural Architecture Search with Bayesian Optimisation and Optimal Transport (2018) — Kandasamy, Kirthevasan et al., *Advances in Neural Information Processing Systems*. |
+| Bananas: Bayesian optimization with neural architectures for neural architecture search (2021) — White, Colin; Neiswanger, Willie; Savani, Yash, *Proceedings of the AAAI conference on artificial intelligence*. |
+| Progressive darts: Bridging the optimization gap for nas in the wild (2021) — Chen, Xin et al., *International Journal of Computer Vision*. |
+| Neural architecture search without training (2021) — Mellor, Joe et al., *International conference on machine learning*. |
+| Scalable reinforcement learning-based neural architecture search (2025) — Cassimon, Amber; Mercelis, Siegfried; Mets, Kevin, *Neural Computing and Applications*. |
+| A review of neural architecture search (2022) — Baymurzina, Dilyara; Golikov, Eugene; Burtsev, Mikhail, *Neurocomputing*. |
+| Bayesian Stream Tuner: Dynamic Hyperparameter Optimization for Real-Time Data Streams (2025) — Verma, Nilesh et al., *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2*. |
+| OSMAC: a dynamic SMAC for data streams (2025) — Royer, 'Emile; Bahri, Maroua; Georgantas, Nikolaos, *2025 IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI)*. |
+| [Bayesian Generational Population-Based Training](https://proceedings.mlr.press/v188/wan22a.html) (2022) — Wan, Xingchen et al., *Proceedings of the First International Conference on Automated Machine Learning*. |
+| Collaborative and federated black-box optimization: A Bayesian optimization perspective (2024) — Al Kontar, Raed, *2024 IEEE International Conference on Big Data (BigData)*. |
+| Collaborative and distributed bayesian optimization via consensus (2025) — Yue, Xubo et al., *IEEE Transactions on Automation Science and Engineering*. |
+| Federated Bayesian optimization via Thompson sampling (2020) — Dai, Zhongxiang; Low, Bryan Kian Hsiang; Jaillet, Patrick, *Advances in Neural Information Processing Systems*. |
+| [GAMA: A Genetic Automated Machine Learning Assistant](https://doi.org/10.21105/joss.01132) (2019) — Pieter Gijsbers et al., *Journal of Open Source Software*. |
+| Large-Scale Evolution of Image Classifiers (2017) — Esteban Real et al., *Proceedings of the 34th International Conference on Machine Learning (ICML 2017)*. |
+| [Regularized Evolution for Image Classifier Architecture Search](https://doi.org/10.1609/aaai.v33i01.33014780) (2019) — Esteban Real et al., *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2019)*. |
+| Nsga-net: neural architecture search using multi-objective genetic algorithm (2019) — Lu, Zhichao et al., *Proceedings of the genetic and evolutionary computation conference*. |
+| A generalized framework for population based training (2019) — Li, Ang et al., *Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining*. |
+| DEHB: Evolutionary Hyperband for Scalable, Robust and Efficient Hyperparameter Optimization (2021) — Noha Awad; Neeratyoy Mallik; Frank Hutter, *Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI-21)*. |
+| Non-stochastic best arm identification and hyperparameter optimization (2016) — Jamieson, Kevin; Talwalkar, Ameet, *Artificial intelligence and statistics*. |
+| A system for massively parallel hyperparameter tuning (2020) — Li, Liam et al., *Proceedings of machine learning and systems*. |
+| Speeding up automatic hyperparameter optimization of deep neural networks by extrapolation of learning curves. (2015) — Domhan, Tobias; Springenberg, Jost Tobias; Hutter, Frank et al., *IJCAI*. |
+| Proxylessnas: Direct neural architecture search on target task and hardware (2018) — Cai, Han; Zhu, Ligeng; Han, Song, *arXiv preprint arXiv:1812.00332*. |
+| [Once for All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/pdf/1908.09791.pdf) (2020) — Han Cai et al., *International Conference on Learning Representations*. |
+| OBOE: Collaborative filtering for AutoML model selection (2019) — Yang, Chengrun et al., *Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining*. |
+| Efficient automl pipeline search with matrix and tensor factorization (2020) — Yang, Chengrun et al., *arXiv preprint arXiv:2006.04216*. |
+| Initializing bayesian hyperparameter optimization via meta-learning (2015) — Feurer, Matthias; Springenberg, Jost; Hutter, Frank, *Proceedings of the AAAI conference on artificial intelligence*. |
+| Scalable hyperparameter transfer learning (2018) — Perrone, Valerio et al., *Advances in neural information processing systems*. |
+| Probabilistic matrix factorization for automated machine learning (2018) — Fusi, Nicolo; Sheth, Rishit; Elibol, Melih, *Advances in neural information processing systems*. |
+| A quantile-based approach for hyperparameter transfer learning (2020) — Salinas, David; Shen, Huibin; Perrone, Valerio, *International conference on machine learning*. |
+| Learning meta-features for automl (2022) — Rakotoarison, Herilalaina et al., *ICLR 2022-International Conference on Learning Representations (spotlight)*. |
+| [SmartCal: A Novel Automated Approach to Classifier Probability Calibration](https://proceedings.mlr.press/v293/abdelrahman25a.html) (2025) — Abdelrahman, Mohamed Maher et al., *Proceedings of the Fourth International Conference on Automated Machine Learning*. |
+| Dataset2vec: Learning dataset meta-features (2021) — Jomaa, Hadi S; Schmidt-Thieme, Lars; Grabocka, Josif, *Data Mining and Knowledge Discovery*. |
+| Meta-learning acquisition functions for transfer learning in bayesian optimization (2019) — Volpp, Michael et al., *arXiv preprint arXiv:1904.02642*. |
+| Learning to learn by gradient descent by gradient descent (2016) — Andrychowicz, Marcin et al., *Advances in neural information processing systems*. |
+| Towards learning universal hyperparameter optimizers with transformers (2022) — Chen, Yutian et al., *Advances in Neural Information Processing Systems*. |
+| [Understanding and Robustifying Differentiable Architecture Search](https://openreview.net/forum?id=H1gDNyrKDS) (2020) — Arber Zela et al., *International Conference on Learning Representations*. |
+| [DARTS-: Robustly Stepping out of Performance Collapse Without Indicators](https://openreview.net/forum?id=KLH36ELmwIB) (2021) — Xiangxiang Chu et al., *International Conference on Learning Representations*. |
+| Progressive differentiable architecture search: Bridging the depth gap between search and evaluation (2019) — Chen, Xin et al., *Proceedings of the IEEE/CVF international conference on computer vision*. |
+| [PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search](https://openreview.net/forum?id=BJlS634tPr) (2020) — Yuhui Xu et al., *International Conference on Learning Representations*. |
+| [SNAS: stochastic neural architecture search](https://openreview.net/forum?id=rylqooRqK7) (2019) — Sirui Xie et al., *International Conference on Learning Representations*. |
+| Searching for a robust neural architecture in four gpu hours (2019) — Dong, Xuanyi; Yang, Yi, *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition*. |
+| [DrNAS: Dirichlet Neural Architecture Search](https://openreview.net/forum?id=9FWas6YbmB3) (2021) — Xiangning Chen et al., *International Conference on Learning Representations*. |
+| Fbnet: Hardware-aware efficient convnet design via differentiable neural architecture search (2019) — Wu, Bichen et al., *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition*. |
+| Learning transferable architectures for scalable image recognition (2018) — Zoph, Barret et al., *Proceedings of the IEEE conference on computer vision and pattern recognition*. |
+| [Designing Neural Network Architectures using Reinforcement Learning](https://openreview.net/forum?id=S1c2cvqee) (2017) — Bowen Baker et al., *International Conference on Learning Representations*. |
+| Mnasnet: Platform-aware neural architecture search for mobile (2019) — Tan, Mingxing et al., *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition*. |
+| AutoAugment: Learning Augmentation Policies from Data (2019) — Cubuk, Ekin D. et al., *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. |
+| [Graph Neural Architecture Search](https://doi.org/10.24963/ijcai.2020/195) (2020) — Gao, Yang et al., *Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI-20*. |
+| Accurate predictions on small data with a tabular foundation model (2025) — Hollmann, Noah et al., *Nature*. |
+| Drift-resilient tabPFN: In-context learning temporal distribution shifts on tabular data (2024) — Helli, Kai et al., *Advances in Neural Information Processing Systems*. |
+| TabICL: A Tabular Foundation Model for In-Context Learning on Large Data (n.d.) — Jingang, QU et al., *Forty-second International Conference on Machine Learning*. |
+| Large language models synergize with automated machine learning (2024) — Xu, Jinglue et al., *arXiv preprint arXiv:2405.03727*. |
+| Aliro: an automated machine learning tool leveraging large language models (2023) — Choi, Hyunjun et al., *Bioinformatics*. |
+| [Fix Fairness, Don’t Ruin Accuracy: Performance-Aware Fairness Repair using AutoML](https://doi.org/10.1145/3611643.3616257) (2023) — Nguyen, Duc-Huy et al., *Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*. |
+| [A Human-in-the-Loop Fairness-Aware Model Selection Framework for Complex Fairness Objective Landscapes](https://ojs.aaai.org/index.php/AIES/article/view/31719) (2024) — Jake Robertson et al., *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES-24)*. |
+| Fair Machine Learning Through the Lens of Causality (2023) — Wu, Xintao et al., *Machine Learning for Causal Inference*. |
+| [Causal Discovery for Fairness](https://proceedings.mlr.press/v214/binkyte23a.html) (2023) — Binkytė, Vaiva et al., *Proceedings of the Workshop on Algorithmic Fairness through the Lens of Causality and Privacy*. |
+| [Differentially-private Federated Neural Architecture Search](https://arxiv.org/abs/2006.10559) (2020) — Ishika Singh et al., *arXiv preprint arXiv:2006.10559*. |
+| Differential privacy and artificial intelligence: potentials, challenges, and future avenues (2025) — Alzoubi, Yehia Ibrahim; Mishra, Alok, *EURASIP Journal on Information Security*. |
+| [Privacy-Preserving Online AutoML for Domain-Specific Face Detection](https://doi.org/10.48550/arXiv.2203.08399) (2022) — Chenqian Yan et al., *Proceedings of CVPR*. |
+| [EC-NAS: Energy Consumption Aware Tabular Benchmarks for Neural Architecture Search](https://arxiv.org/abs/2210.06015) (2024) — Bakhtiarifard, Pedram; Igel, Christian; Selvan, Raghavendra, *ICASSP 2024 - IEEE International Conference on Acoustics, Speech and Signal Processing*. |
+| [EA-HAS-Bench: Energy-Aware Hyperparameter and Architecture Search Benchmark](https://github.com/microsoft/EA-HAS-Bench) (2023) — Dou, Shuguang et al., *International Conference on Learning Representations (ICLR)*. |
+| [KNAS: Green Neural Architecture Search](https://proceedings.mlr.press/v139/xu21m.html) (2021) — Xu, Jingjing et al., *Proceedings of the 38th International Conference on Machine Learning*. |
+| CodeCarbon: Track and Reduce Carbon Emissions from Computing (2025) — CodeCarbon Team. |
+| [Quantifying the Carbon Emissions of Machine Learning](https://arxiv.org/abs/1910.09700) (2019) — Lacoste, Alexandre et al., *arXiv preprint arXiv:1910.09700*. |
+| [ATMSeer: Increasing Transparency and Controllability in Automated Machine Learning](https://arxiv.org/pdf/1902.05009) (2019) — Wang, Qianwen et al., *Proceedings of the CHI Conference on Human Factors in Computing Systems*. |
+| ixAutoML: Interactive and Explainable AutoML (2025) — Lindauer, Marius; Feurer, Matthias; Tornede, Alexander et al., *Accessed: 2025-12-03*. |
+| [XAutoML: A Visual Analytics Tool for Understanding and Validating Automated Machine Learning](https://arxiv.org/abs/2202.11954) (2023) — Zöller, Marc-André et al., *ACM Transactions on Interactive Intelligent Systems*. |
+| SustainaML: Enhancing Transparency, Control, and Green Sustainability in AutoML (2025) — Malik, Mehak Mushtaq; Shawi, Radwa El, *Joint European Conference on Machine Learning and Knowledge Discovery in Databases*. |
+| Explainability in MLJAR AutoML (2025) — MLJAR Team, *Accessed: 12-03-2026*. |
+| [Understanding Deep Learning Using Explainable Machine Learning with LIME and H2O AutoML](https://doi.org/10.1007/978-3-031-64776-5_27) (2024) — Garg, Aradya; Chaudhary, Alka, *Intelligent Systems Design and Applications (ISDA 2023)*. |
+| [Accuracy and fairness trade-offs in machine learning: a stochastic multi-objective approach](https://doi.org/10.1007/s10287-022-00425-z) (2022) — Liu, Suyun; Vicente, Luis Nunes, *Computational Management Science*. |
+| [AutoM3L: An Automated Multimodal Machine Learning Framework with Large Language Models](https://arxiv.org/abs/2408.00665) (2024) — Luo, Daqin et al., *arXiv preprint*. |
+| [FEATHERS: Federated Architecture and Hyperparameter Search](https://arxiv.org/abs/2206.12342) (2022) — Seng, Jonas et al., *arXiv preprint arXiv:2206.12342*. |
+| Unsupervised Cross-Task Generalization via Retrieval Augmentation (2022) — Bill Yuchen Lin et al., *arXiv preprint arXiv:2204.07937*. |
+| [AutoGL: A Library for Automated Graph Learning](https://github.com/THUMNLab/AutoGL) (2023) — Ziwei Zhang et al., *Proceedings of the 40th International Conference on Machine Learning (ICML)*. |
+| **Missing from parsed BibTeX or requires manual normalization.** |
+| **Missing from parsed BibTeX or requires manual normalization.** |
+| AlphaX: Exploring neural architectures with deep reinforcement learning (2019) — Wang, Yujia et al., *International Conference on Learning Representations*. |
+| Data interpreter: An llm agent for data science (2025) — Hong, Sirui et al., *Findings of the Association for Computational Linguistics: ACL 2025*. |
 
 ---
+
+## 🤝 Contribution Guidelines
+
+We welcome contributions that improve the coverage, correctness, and usability of this survey repository. Contributions may include adding newly published AutoML papers, correcting reference metadata, improving taxonomy assignments, or suggesting additional comparison dimensions.
+
+### 1. Adding a New Paper or Reference
+
+When adding a new paper, please make sure that the contribution includes sufficient bibliographic and taxonomic information. A new entry should contain:
+
+| Field | Description |
+|---|---|
+| Paper title | Full title of the paper |
+| Authors | Author list as reported in the publication |
+| Year | Publication year |
+| Venue | Conference, journal, workshop, preprint server, or technical report |
+| DOI / URL | DOI, arXiv link, OpenReview link, publisher link, or stable project page |
+| Citation key | BibTeX-compatible citation key |
+| AutoML scope | The main AutoML task addressed by the paper |
+| Taxonomy dimension | The relevant taxonomy category in this survey |
+| Short rationale | One or two sentences explaining why the paper should be included |
+
+Please add the BibTeX entry to the bibliography file and ensure that the citation key is consistent with the reference used in the README and manuscript-related tables.
+
+### 2. Recommended Format for New Entries
+
+For consistency, please use the following format when proposing a new reference:
+
+```markdown
+| Paper | Year | Venue | Main Focus | Taxonomy Category | Notes |
+|---|---:|---|---|---|---|
+| Paper Title | 2025 | Conference / Journal | Example: federated HPO, NAS, AutoML for streams | Example: Adaptivity Modalities / Federated Adaptation | Brief reason for inclusion |
